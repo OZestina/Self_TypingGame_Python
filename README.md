@@ -19,3 +19,11 @@ pip로 패키지 버전관리를 하는데,
 프로젝트마다 필요한 패키지 버전이 달라서 관리가 힘들수 있어서, 
 패키지 설치를 폴더하나로 관리하고, 해당 폴더를 가상환경으로 취급하는게 
 virtualenv의 목적이야
+
+python virtual environment setup (ubuntu)
+https://django-easy-tutorial.blogspot.com/2015/08/python-virtual-environment-setup-in-ubuntu.html
+
+python framework
+- django
+- flask: https://flask.palletsprojects.com/en/2.0.x/
+- 
